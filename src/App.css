@@ -1,0 +1,21 @@
+.cell {
+  width: 100px;
+  margin: 3px;
+  height: 100px;
+  border: 2px solid black;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.cell--blue {
+  background: blue;
+}
+
+.cell--red {
+  background: red;
+}
+
+.column {
+  float: left;
+  width: 8%;
+}
